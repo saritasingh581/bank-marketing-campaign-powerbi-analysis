@@ -49,21 +49,23 @@ The objective was to transform raw campaign data into business-ready insights th
 
 📂 Repository Structure  
 
+'''
 Bank-Marketing-PowerBI-Dashboard/
 │
-├── data/  
-│   ├── raw/  
-│   │   └── bank_marketing_raw.csv  
-│   └── processed/  
-│       └── bank_marketing_clean.csv  
+├── data/
+│   ├── raw/
+│   │   └── bank_marketing_raw.csv
+│   └── processed/
+│       └── bank_marketing_clean.csv
 │
-├── powerbi/  
-│   └── Bank_Marketing_Dashboard.pbix  
+├── powerbi/
+│   └── Bank_Marketing_Dashboard.pbix
 │
-├── screenshots/  
-│   └── dashboard_preview.png  
+├── screenshots/
+│   └── dashboard_preview.png
 │
 └── README.md  
+'''
 
 📌 Key Takeaway  
 
