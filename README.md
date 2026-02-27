@@ -22,45 +22,31 @@ The objective was to transform raw campaign data into business-ready insights th
 
 2️⃣ Data Modeling (Power BI)  
 
-Verified data types
+- Verified data types  
+- Created calculated columns  
+- Built DAX measures for core KPIs  
 
-Created calculated columns
+3️⃣ KPI Development  
 
-Built DAX measures for core KPIs
+- Total Customers  
+- Conversion Rate (%)  
+- Subscribers per 100 Calls  
+- Campaign Efficiency  
+- Previous Contact Impact  
+- Avg. Euribor Rate by Subscription  
 
-3️⃣ KPI Development
+4️⃣ Dashboard Design  
 
-Total Customers
-
-Conversion Rate (%)
-
-Subscribers per 100 Calls
-
-Campaign Efficiency
-
-Previous Contact Impact
-
-Avg. Euribor Rate by Subscription
-
-4️⃣ Dashboard Design
-
-Interactive slicers (Job, Housing, Loan)
-
-Comparative conversion visuals
-
-Campaign performance analysis
-
-Economic influence tracking
+- Interactive slicers (Job, Housing, Loan)  
+- Comparative conversion visuals  
+- Campaign performance analysis  
+- Economic influence tracking  
 
 🛠 Tools Used
-
-Power BI
-
-DAX
-
-PostgreSQL
-
-CSV Data Processing
+- Power BI  
+- DAX  
+- PostgreSQL  
+- CSV Data Processing  
 
 📂 Repository Structure
 Bank-Marketing-PowerBI-Dashboard/
