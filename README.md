@@ -66,11 +66,9 @@ Bank-Marketing-PowerBI-Dashboard/
 └── README.md
 ```
 
-
 📌 Key Takeaway  
+This project demonstrates the complete analytics workflow:  
 
-This project demonstrates the complete analytics workflow:
+Raw Data → SQL Cleaning → KPI Engineering → Business Dashboard → Actionable Insights  
 
-Raw Data → SQL Cleaning → KPI Engineering → Business Dashboard → Actionable Insights
-
-It reflects how marketing performance can be measured and optimized using data-driven decision-making.
+It reflects how marketing performance can be measured and optimized using data-driven decision-making.  
