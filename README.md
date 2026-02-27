@@ -48,8 +48,7 @@ The objective was to transform raw campaign data into business-ready insights th
 - CSV Data Processing  
 
 📂 Repository Structure  
-
-'''
+```
 Bank-Marketing-PowerBI-Dashboard/
 │
 ├── data/
@@ -64,8 +63,9 @@ Bank-Marketing-PowerBI-Dashboard/
 ├── screenshots/
 │   └── dashboard_preview.png
 │
-└── README.md  
-'''
+└── README.md
+```
+
 
 📌 Key Takeaway  
 
