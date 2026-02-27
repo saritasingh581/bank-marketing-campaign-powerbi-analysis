@@ -7,7 +7,6 @@ This project analyzes a bank’s direct marketing campaign data to evaluate cust
 The objective was to transform raw campaign data into business-ready insights that support smarter marketing decisions.  
 
 🧠 Business Questions Answered  
-
 - Which customer segments drive the highest subscription rates?  
 - Does increasing campaign contacts improve or reduce conversion?  
 - How does previous interaction impact future success?  
@@ -48,23 +47,25 @@ The objective was to transform raw campaign data into business-ready insights th
 - PostgreSQL  
 - CSV Data Processing  
 
-📂 Repository Structure
+📂 Repository Structure  
+
 Bank-Marketing-PowerBI-Dashboard/
 │
-├── data/
-│   ├── raw/
-│   │   └── bank_marketing_raw.csv
-│   └── processed/
-│       └── bank_marketing_clean.csv
+├── data/  
+│   ├── raw/  
+│   │   └── bank_marketing_raw.csv  
+│   └── processed/  
+│       └── bank_marketing_clean.csv  
 │
-├── powerbi/
-│   └── Bank_Marketing_Dashboard.pbix
+├── powerbi/  
+│   └── Bank_Marketing_Dashboard.pbix  
 │
-├── screenshots/
-│   └── dashboard_preview.png
+├── screenshots/  
+│   └── dashboard_preview.png  
 │
-└── README.md
-📌 Key Takeaway
+└── README.md  
+
+📌 Key Takeaway  
 
 This project demonstrates the complete analytics workflow:
 
